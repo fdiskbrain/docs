@@ -1,2 +1,4 @@
 #!/usr/bin/env perl
-print $?
+use strict;
+print $?;
+
