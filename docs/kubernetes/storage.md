@@ -1,4 +1,4 @@
-## Volumes
+# Volumes
 
 ## Persistent volumes
 - volume type
@@ -17,7 +17,7 @@
 - configmap
 - serviceAccountToken
 
-## ephemeral volumes
+## Ephemeral volumes
 
 - tempdir
 - configmap
