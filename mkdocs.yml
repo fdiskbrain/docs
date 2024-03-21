@@ -1,2 +1,6 @@
 site_name: fbdn docs
 site_url: https://docs.fbdn.xyz
+nav:
+- "Home": 'index.md'
+- "Kubernetes":
+  - "Storage": 'kubernetes/storage.md'
