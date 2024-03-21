@@ -1,5 +1,6 @@
 site_name: fbdn docs
 site_url: https://docs.fbdn.xyz
+theme: readthedocs
 nav:
 - "Home": 'index.md'
 - "Kubernetes":
