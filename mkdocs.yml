@@ -1,6 +1,11 @@
 site_name: fbdn docs
 site_url: https://docs.fbdn.xyz
+site_author: FB
+copyright: Copyright by FB 2024
+repo_url: https://github.com/fdiskbrain/docs
+
 theme: readthedocs
+
 plugins:
 - mermaid2
 nav:
