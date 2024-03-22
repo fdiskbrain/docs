@@ -1,27 +1,27 @@
 # Volumes
 
 ## Persistent volumes
-- volume type
-  - static
+- Volume type
+  - Static
   - Dynamic
-- lifecycle
-  - binding
-  - using
-  - relaiming
-  - retain
-  - delete
-  - recycle
+- Lifecycle
+  - Binding
+  - Using
+  - Relaiming
+  - Retain
+  - Delete
+  - Recycle
 ## Projected volumes
-- secret
-- downwardapi
-- configmap
-- serviceAccountToken
+- Secret
+- Downwardapi
+- Configmap
+- ServiceAccountToken
 
 ## Ephemeral volumes
 
-- tempdir
-- configmap
-- downwardapi
+- Tempdir
+- Configmap
+- Downwardapi
 
 ```mermaid
     graph TD 
